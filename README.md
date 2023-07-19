@@ -1,7 +1,7 @@
 # DBuffer
 
 [![Go Doc](https://pkg.go.dev/badge/github.com/ETZhangSX/dbuffer.svg)](https://pkg.go.dev/github.com/ETZhangSX/dbuffer)
-[![Go Report Card](https://goreportcard.com/badge/github.com/ETZhangSX/dbuffer/v0.svg)](https://goreportcard.com/report/github.com/ETZhangSX/dbuffer)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ETZhangSX/dbuffer)](https://goreportcard.com/report/github.com/ETZhangSX/dbuffer)
 
 Package dbuffer is a Go 1.18+ package using double-buffer to achieve data hot update.
 
